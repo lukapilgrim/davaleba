@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+
+h3 {
+    margin: 64px 94px 149px 69px;
+	width: 208px;
+	height: 36px;
+	color: white;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 36px;
+	color: #FFFFFF;
+}
+
+.sign {
+    margin: 0 56px 30px 44px;
+	width: 300px;
+	height: 60px;
+	background: #333333;
+	text-align: center;
+}
+
+.login {
+    margin: 0 56px 0 44px;
+	width: 300px;
+	height: 60px;
+    background: #333333;
+	text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 29px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 36px;
+}
+
+.div-first {
+    float: left;
+    width: 400px;
+	height: 900px;
+	background: #2F80ED;
+    position: absolute;
+}
+
+.div-second {
+    float: right;
+    height: 900px;
+}
+
+.line1{ 
+    margin-left: 500px;
+    font-size: 26px;
+    color: gray;
+    
+}
+
+.figma {
+height: 507px;
+width: 851px;
+left: 422px;
+top: 167px;
+border-radius: 0px;
+}
+
+.line2{
+	margin-right: 600px;
+    font-size: 26px;
+    color: gray;
+}
